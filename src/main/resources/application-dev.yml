@@ -1,0 +1,19 @@
+spring:
+  profiles:
+    active: dev
+#  datasource:
+#    driver-class-name: org.h2.Driver
+#    url: jdbc:h2:mem:wishlistdb
+#    username: sa
+#    password:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://backup.saraqian.cn:3306/wishlist?allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8&useSSL=false
+    username: wishlist
+    password: Asdfzxcv88
+
+
+
+
+
+

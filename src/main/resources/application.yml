@@ -4,9 +4,9 @@ spring:
     cleanDisabled: true
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://123.59.62.104:3306/wishlist?allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8&useSSL=false
+    url: jdbc:mysql://backup.saraqian.cn:3306/wishlist?allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8&useSSL=false
     username: wishlist
-    password: Wishlist20181008
+    password: Asdfzxcv88
 app:
   appId: "wxa823794835f994b3"
   appSecret: "1e0d9911438978e850061262a1c58889"

@@ -13,6 +13,8 @@ app:
 info:
   github: https://github.com/abigail830/wish-list-jpa.git
   jitpack: https://jitpack.io/#abigail830/wish-list-jpa
+server:
+  port: 8083
 
 
 
